@@ -1,10 +1,10 @@
+#Versão 1.0 Bot de Discord para o grupo de Dota
 import discord
 
 client = discord.Client()
 
 @client.event
 async def on_ready():
-    #parte do python
     print('Logado como {0.user}'.format(client), "LOGIN:OK")
 
 
