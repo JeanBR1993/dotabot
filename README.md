@@ -18,3 +18,6 @@ Qualquer uso lucrativo estará sujeito à disputa judicial.<br/>
 Não haverá mais atualizações, melhorias ou debugging do código por minha parte, é permitido no entanto que haja fork<br/>
 se alguém quiser continuar o trabalho nele.<br/>
 
+PARA USÁ-LO é necessário o download do script principal e da modificação do comando "bot.run" no final do mesmo **COM A CHAVE PARA BOTS DO DISCORD**<br/>
+Você conseguirá tal chave através da página: [**LINK**](https://discord.com/developers/applications)
+Boa sorte!!
