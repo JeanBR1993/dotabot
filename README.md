@@ -1,7 +1,6 @@
 # dotabot PTBR
 
-Meu nome é Jean Carlo, estudo programação à 6 meses e esse foi meu primeiro "projeto pessoal grande", trata-se de um bot para automação de mensagens e comandos<br/>
-em um dos aplicativos de comunicações mais famosos da internet, o Discord, usado principalmente pelo público gamer e estudantes.<br/>
+Meu nome é Jean Carlo, estudo programação à 6 meses e esse foi meu primeiro "projeto pessoal grande", trata-se de um bot para automação de mensagens e comandosem um dos aplicativos de comunicações mais famosos da internet, o Discord, usado principalmente pelo público gamer e estudantes.<br/>
 <br/>
 O robô em questão foi construído para os jogadores de DOTA 2, a função dele é simples:<br/>
 1 - Cadastrar os jogadores do canal o qual está inserido para que participem de uma lista de liderança.<br/>
