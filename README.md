@@ -18,7 +18,7 @@ Any other use will be held accountable.</br>
 There won't be any more updates, improvements or debugging by my part although it's allowed to fork the code by</br>
 someone who wants to continue the work on it.</br>
 
-It's necessary the download of the script in your language and the modification of the "bot.run" in the end of it **WITH THE KEY DISCORD PROVIDED**</br>
+It's necessary the download of the script in your language and the modification of the "bot.run" in the end of it **WITH THE KEY DISCORD PROVIDES**</br>
 You can get that key in this URL: [**LINK**](https://discord.com/developers/applications)<br/>
 Good luck!!!</br>
 </br>
