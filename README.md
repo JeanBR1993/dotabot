@@ -8,7 +8,7 @@ The robot was coded for Dota 2 players, it's fuction is simple:</br>
 3 - Manage the data and pulling only the necessary information using the least calls quantity possible.</br>
 4 - Show the leaderboard list in decrescent order.</br>
 5 - Provide support methods and commands to the main fucntions.</br>
-_________________________________________________________________________________________________________________________________</br>
+________________________________________________________________________________________________________________________</br>
 Discord Dota Bot v2.0
 </br></br>
 
@@ -22,7 +22,7 @@ It's necessary the download of the script in your language and the modification 
 You can get that key in this URL: [**LINK**](https://discord.com/developers/applications)<br/>
 Good luck!!!</br>
 </br>
-___________________________________________________________________________________________________________________________________<br/>
+________________________________________________________________________________________________________________________<br/>
 # dotabot PT-BR
 
 Meu nome é Jean Carlo, estudo programação à 6 meses e esse foi meu primeiro "projeto pessoal grande", trata-se de um bot para automação de mensagens e comandos em um dos aplicativos de comunicações mais famosos da internet, o Discord, usado principalmente pelo público gamer e estudantes.<br/>
@@ -33,7 +33,7 @@ O robô em questão foi construído para os jogadores de DOTA 2, a função dele
 3 - Tratar tais dados, filtrando apenas os necessários e usando o menor número de calls possível.<br/>
 4 - Apresentar a lista tratada de liderança em ordem decrescente.<br/>
 5 - Providenciar métodos e comandos de suporte às funções principais.<br/>
-___________________________________________________________________________________________________________________________________<br/>
+________________________________________________________________________________________________________________________<br/>
 <br/>
 Versão 2.0 do Bot Discord de dota<br/>
 <br/>
