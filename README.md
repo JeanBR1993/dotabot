@@ -39,7 +39,7 @@ Versão 2.0 do Bot Discord de dota<br/>
 <br/>
 Esse bot foi criado com o intuíto de melhorar a conveniência e convivência de usuários de canais do jogo DOTA 2 no Discord<br/>
 Eu, Jean, criador do robô permito o uso do mesmo para fins não lucrativos à partir da licença GPL (Licença Pública Geral)<br/>
-Qualquer uso lucrativo estará sujeito à disputa judicial.<br/>
+Qualquer uso lucrativo estará sujeito à sanções.<br/>
 Não haverá mais atualizações, melhorias ou debugging do código por minha parte, é permitido no entanto que haja fork<br/>
 se alguém quiser continuar o trabalho nele.<br/>
 
