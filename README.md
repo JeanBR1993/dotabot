@@ -2,7 +2,7 @@
 </br>
 My name is Jean Carlo, I study software development for 6 months and this is my first "big hobby project", it's a bot for message and commands automation in one of the most famous app on internet: Discord, used mainly by gamers and students.</br>
 </br>
-The robot was coded for Dota 2 players, it's fuction is simple:</br>
+The robot was coded for Dota 2 players, it's fuction is:</br>
 1 - Register the players of the channel in which it's logged to participate in a leaderbord list.</br>
 2 - Extract the statistical data of every registered player through opendota.com API</br>
 3 - Manage the data and pulling only the necessary information using the least calls quantity possible.</br>
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 Meu nome é Jean Carlo, estudo programação à 6 meses e esse foi meu primeiro "projeto pessoal grande", trata-se de um bot para automação de mensagens e comandos em um dos aplicativos de comunicações mais famosos da internet, o Discord, usado principalmente pelo público gamer e estudantes.<br/>
 <br/>
-O robô em questão foi construído para os jogadores de DOTA 2, a função dele é simples:<br/>
+O robô em questão foi construído para os jogadores de DOTA 2, a função dele é:<br/>
 1 - Cadastrar os jogadores do canal o qual está inserido para que participem de uma lista de liderança.<br/>
 2 - Puxar os dados estatísticos de cada jogador cadastrado através da API do opendota.com<br/>
 3 - Tratar tais dados, filtrando apenas os necessários e usando o menor número de calls possível.<br/>
