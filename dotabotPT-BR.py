@@ -25,7 +25,7 @@ class Player:
         # Construção da URL final de cada usuário para extração de dados
         response = requests.get(playerinfo + profile_id)
         # Rotina pra controle de erros da API de extração
-        if response.status_code > 200 or response.status_code < 200:
+        if response.status_code != 200:
             print("API de output com problemas, chame o 'programador'", response.status_code)
             return
         else:
