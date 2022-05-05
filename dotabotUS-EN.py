@@ -25,7 +25,7 @@ class Player:
         # Final URL to get the data
         response = requests.get(playerinfo + profile_id)
         # Error control routine for bad data API output
-        if response.status_code > 200 or response.status_code < 200:
+        if response.status_code != 200:
             print("Output API with problems, call the developer", response.status_code)
             return
         else:
