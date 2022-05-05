@@ -1,7 +1,6 @@
 # Dota Discord bot v2.0
 # This bot has been created with the intention of improving the community of DOTA in discord servers
 # Me, Jean, the creator of this robot allow the use of it for non-lucrative purposes through the GPL license
-# Any other use will be held accountable.
 # There won't be any more updates, improvements or debugging by my part although it's allowed to fork the code by
 # someone who wants to continue the work on it.
 
