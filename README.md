@@ -1,6 +1,6 @@
 # dotabot US-EN
 </br>
-My name is Jean Carlo, I've studied software development for 6 months and this is my first "big hobby project", it's a bot for messages and commands automation in one of the most famous app on internet: Discord, used mainly by gamers and students.</br>
+My name is Jean Carlo, I've studied software development for 6 months and this is my first "big hobby project", it's a bot for messages and commands automation in one of the most famous app on internet: Discord.</br>
 </br>
 The robot was coded for Dota 2 players, it's fuction is:</br>
 1 - Register the players of the channel in which it's logged to participate in a leaderbord list.</br>
